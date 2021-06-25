@@ -3,7 +3,7 @@
 A web based calorie tracker to help log and track their nutrition intake on a day-to-day basis. 
 
 ## Technologies used 
-Frontend
+Frontend---
 Font Awesome
 Material UI
 Axios
@@ -14,7 +14,7 @@ rxjs
 react
 react-dom
 validator
-Backend 
+Backend---
 bcrypt
 jsonwebtoken
 express
@@ -22,7 +22,10 @@ dotenv
 mongoose    
 
 
+## Contributors
 
+* Asli Farah- Frontend
+* Betiel Habte- Backend
 
 
 
@@ -31,6 +34,8 @@ mongoose
 ## Screenshots of the application
 
 <img src="./client/src/assets/pic1.png" width="1000" height="350">
+
+<img src="./client/src/assets/pic.png" width="1000" height="350">
 
 
 

@@ -2,3 +2,5 @@
 /client/node_modules
 /server/node_modules
 .env
+
+mongodb+srv://bet:Yohana1992@cluster0.pmih1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
