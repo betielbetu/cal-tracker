@@ -48,4 +48,4 @@ mongoose
 
 * The URL to the deployed application: https://fierce-beyond-40641.herokuapp.com
 
-* The URL to the GitHub repository: https://github.com/betielbetu/Google-Books-Search
+* The URL to the GitHub repository: https://github.com/betielbetu/cal-tracker
