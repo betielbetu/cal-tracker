@@ -1,0 +1,126 @@
+body {
+  background: url("assets/bg.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.container {
+  background-color: #fff;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.icon-color {
+  color: #08AE23;
+}
+
+.loginText{
+  color: #08AE23;
+  font-size: 3rem;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
+.btn-login {
+  background-color: #08AE23;
+  color: #fff;
+  font-size: 1.25rem;
+}
+
+.not-found {
+  font-size: 3rem;
+}
+
+.food-list {
+  min-height: 450px;
+  max-height: 450px;
+  width: 100%;
+  overflow-y: scroll;
+  border: 1px solid #ddd;
+}
+
+.no-food {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.list-group-item {
+  padding: 0;
+}
+
+.list-group-item .card:hover {
+  background-color: #bee5eb;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.welcome-text {
+  font-size: 1.5rem;
+}
+
+.semiprogressbar-container{
+  display: flex;
+  justify-content: center;
+}
+
+.pick-food {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.form-wrapper {
+  display: flex;
+}
+
+.column {
+  flex: 50%
+}
+
+.error {
+  text-align: right;
+  font-size: .75rem;
+  color: red;
+}
