@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "concurrently": "^6.2.0",
+    "nodemon": "^2.0.7",
     "react-progressbar-semicircle": "^1.2.1"
   }
 }
